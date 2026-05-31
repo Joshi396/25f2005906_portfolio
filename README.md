@@ -2,7 +2,7 @@
 
 ## Student Details
 
-Name: Joshi
+Name: JOSHI
 
 Roll Number: 25f2005906
 
