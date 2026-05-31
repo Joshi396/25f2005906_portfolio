@@ -2,11 +2,11 @@
 
 ## Student Details
 
-Name: YOUR_NAME
+Name: Joshi
 
-Roll Number: YOUR_ROLLNUMBER
+Roll Number: 25f2005906
 
-Email: YOUR_IITM_EMAIL
+Email: 25f2005906@ds.study.iitm.ac.in
 
 ---
 
